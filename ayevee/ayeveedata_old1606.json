@@ -1,0 +1,450 @@
+{   
+"banner":{
+    "left": {
+      "top": {
+        "imgSrc": "../assets/img/aige.png",
+        "imgWidth": "196",
+        "imgHeight": "66",
+        "tagline": "India’s first Interactive & Gamified Experience",
+        "intro": "Get ready to immerse yourself into thrilling interactive and gamified features",
+        "intro2": "Now available in 7 different languages!"
+      },
+      "bottom": {
+        "appDownloadLinks": {
+          "text": "Available on Android & iOS",
+          "links": [
+            {
+              "href": "https://play.google.com/store/apps/details?id=com.asiaville.ayevee&hl=en_IN",
+              "imgSrc": "../assets/img/Playstore.webp",
+              "imgWidth": "216",
+              "imgHeight": "71"
+            },
+            {
+              "href": "https://apps.apple.com/us/app/ayevee/id6443836091",
+              "imgSrc": "../assets/img/Appstore.webp",
+              "imgWidth": "216",
+              "imgHeight": "71"
+            }
+          ]
+        },
+        "sponsors": {
+          "title": "Title sponsors:",
+          "sponsorsList": [
+            {
+              "href": "#",
+              "imgSrc": "../assets/img/ifihomes.png",
+              "imgWidth": "158",
+              "imgHeight": "60"
+            },
+            {
+              "href": "#",
+              "imgSrc": "../assets/img/Oxygen.jpg",
+              "imgWidth": "117",
+              "imgHeight": "60"
+            },
+            {
+              "href": "#",
+              "imgSrc": "../assets/img/belkin.png",
+              "imgWidth": "164",
+              "imgHeight": "45"
+            }
+          ]
+        }
+      }
+    },
+    "right": {
+      "imgSrc": "../assets/img/mobile.png",
+      "imgWidth": "413",
+      "imgHeight": "538"
+    }
+  },  
+"ourshows":{
+    "title_img":{
+        "url": "../assets/img/our-shows.png",
+        "width":"314",
+        "height":"55",
+        "alt":"Our Shows"
+    },
+    "lists":[
+        {
+          "imgSrc": "../assets/img/WKK-poster.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "Who Killed Kavitha?",
+              "description": "Thriller | Mystery | 45 min | Malayalam"
+            },
+            "paragraph": "Help Detective Dev unlock a baffling murder case through this one-of-a-kind interactive and gamified experience",
+            "footerBlock": {
+              "rating": "4.8/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        },
+        {
+          "imgSrc": "../assets/img/LMO-poster.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "LET ME OUT",
+              "description": "Thriller | Mystery | 45 min | Malayalam"
+            },
+            "paragraph": "4 friends get trapped within a virtual realm. Play the game controlled by the mysterious Game-master and help the friends navigate deadly challenges to get out alive!",
+            "footerBlock": {
+              "rating": "4.5/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        },
+        {
+          "imgSrc": "../assets/img/WKK-Hindi-poster.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "Who Killed Kavita",
+              "description": "Thriller | Mystery | 45 min | Hindi"
+            },
+            "paragraph": "Help Detective Dev unlock a baffling murder case through this one-of-a-kind interactive and gamified experience",
+            "footerBlock": {
+              "rating": "4.8/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        },
+        {
+          "imgSrc": "../assets/img/Trapped.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "Trapped",
+              "description": "Thriller | Mystery | 45 min | Hindi"
+            },
+            "paragraph": "4 friends get trapped within a virtual realm. Play the game controlled by the mysterious Game-master and help the friends navigate deadly challenges to get out alive!",
+            "footerBlock": {
+              "rating": "4.5/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        },
+        {
+          "imgSrc": "../assets/img/GIP_poster.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "Ghost in the Phone",
+              "description": "Horror | Thriller | 40 Min | Tamil"
+            },
+            "paragraph": "Divya, who recently moved into a new home in a new city realizes that her new home is haunted. The mystery of the ghost and her death takes her down a rabbit hole of lies, deceit and vengeance.",
+            "footerBlock": {
+              "rating": "4.5/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        },
+        {
+          "imgSrc": "../assets/img/DH_poster.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "The Diamond Heist",
+              "description": "Thriller | 45 min | Malayalam"
+            },
+            "paragraph": "Four individuals plot a high-stakes diamond heist at a confidential event, aided by an insider whose gradual betrayal and the group’s intricate planning unfold in parallel timelines, ultimately converging to reveal a tense web of deception and strategy",
+            "footerBlock": {
+              "rating": "4.5/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        },
+        {
+          "imgSrc": "../assets/img/SWIPE_RIGHT_POSTER.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "Swipe Right",
+              "description": "AIGE | Dating | 45 Mins | Tamil"
+            },
+            "paragraph": "A boy is challenged in a truth-or-dare game to romantically engage with three girls at a pub without revealing it's a dare.",
+            "footerBlock": {
+              "rating": "4.5/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        },
+        {
+          "imgSrc": "../assets/img/AVIYAL_POSTER.jpg",
+          "imgAlt": "",
+          "imgWidth": "",
+          "imgHeight": "",
+          "content": {
+            "headingBlock": {
+              "imgSrc": "../assets/img/search.png",
+              "imgAlt": "",
+              "imgWidth": "50",
+              "imgHeight": "50",
+              "title": "Aviyal",
+              "description": "AIGE | Romance | Comedy | 45 Mins | Malayalam"
+            },
+            "paragraph": "A gamified interactive show where a group of friends scrambles to help their buddy elope with the love of his life—just a day before her wedding. Your choices drive the chaos, comedy, and drama in this thrilling adventure!",
+            "footerBlock": {
+              "rating": "4.5/5 stars",
+              "ratingClass": "rating rate-4-5"
+            }
+          }
+        }
+      ]
+      
+},
+"aige":{
+            "title_img":{
+                    "url": "../assets/img/what-is-aige.png ",
+                    "width":"448",
+                    "height":"77",
+                    "alt":"what is aige?"
+                },
+            "description":"<strong>AIGE (AyeVee Interactive and Gamified Experience)</strong>, a patent pending content and technology format that immerses YOU, the user, in a seamless blend of content, interactivity and gaming. AIGE puts you in the driver's seat of your entertainment experience, where you're more than just a spectator; you become an active participant in the story. ",
+            "iframe":{
+                "width": "1920",
+                "height": "1080",
+                "style": {
+                  "maxWidth": "100%",
+                  "height": "auto",
+                  "aspectRatio": "1920/1080"
+                },
+                "src": "https://www.youtube.com/embed/dVzGoTEg1wQ?autoplay=1&loop=1&mute=1&playlist=dVzGoTEg1wQ",
+                "title": " Asiaville Tamil",
+                "frameBorder": "0",
+                "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+                "referrerPolicy": "strict-origin-when-cross-origin",
+                "allowFullscreen": true
+              }
+        },
+    "aigefeature":{
+       "title_img":{
+            "url": "../assets/img/aige-features.png ",
+            "width":"316",
+            "height":"50",
+            "alt":"AIGE Features"
+        },
+        "lists":[
+            {   "class":"",
+                "left":{
+                    "type":"text",
+                    "class":"",
+                    "title":"Super immersive interactive features",
+                    "description":"Experience next-level engagement with cutting-edge interactivity that pulls you into the story"
+
+                },
+                "right":{
+                    "type":"image",
+                    "class":"",
+                    "image":{
+                        "url": "../assets/img/Poster-1.jpg ",
+                        "width":"641",
+                        "height":"400",
+                        "alt":"user reviews"
+                    }
+                }
+                
+            },
+            {
+                "class":"reverse",
+                "left":{
+                    "type":"image",
+                    "class":"",
+                    "image":{
+                        "url": "../assets/img/Poster-2.jpg",
+                        "width":"641",
+                        "height":"400",
+                        "alt":"user reviews"
+                    }
+                },
+                "right":{
+                    "type":"text",
+                    "class":["col-flex","ai-e","gap-0"],
+                    "title":"You decide <br>what happens next",
+                    "description":"Take control of the plot and shape the narrative with your choices at every crucial moment"
+                }
+                
+            },
+            {
+                "class":"",
+                "left":{
+                    "type":"text",
+                    "class":"",
+                    "title":"Narrative driven gameplay",
+                    "description":"Engage with the evolving narrative through cutting edge gameplay"
+                },
+                "right":{
+                    "type":"image",
+                    "class":"",
+                    "image":{
+                        "url": "../assets/img/Poster-3.jpg",
+                        "width":"641",
+                        "height":"400",
+                        "alt":"user reviews"
+                    }
+                }
+                
+            }
+        ]
+    },
+    "reviews":{
+        "title_img":{
+            "url": "../assets/img/user-reviews.png ",
+            "width":"316",
+            "height":"50",
+            "alt":"user reviews"
+        },
+
+        "description":"Check out what our users are saying about AIGE",
+        "items":[
+                {
+                    "name": "Akhil S",
+                    "profileimg_Url": "../public/image/profile-pic.png",
+                    "profileimg_Width": 88,
+                    "profileimg_Height": 89,
+                    "profileimg_Alt": "review",
+                    "review": "Fantabulous 5 star you guys deserve to be in big screen technical wise top notch editing overall its a new gaming crime thriller short movie all the best for your future projects",
+                    "imageUrl": "../public/image/review-star.png",
+                    "imageWidth": 228,
+                    "imageHeight": 40,
+                    "imageAlt": "review"
+                },
+                {
+                    "name": "Godwin",
+                    "profileimg_Url": "../public/image/profile-pic.png",
+                    "profileimg_Width": 88,
+                    "profileimg_Height": 89,
+                    "profileimg_Alt": "review",
+                    "review": "Awesome stuff! Really happy that the Interactive experience now being adapted in India.\nVery engaging story..... could have gone a bit deeper though in investigating the CEO and the cult angle. But really awesome stuff... hope you guys produce more such content. Cheers!",
+                    "imageUrl": "../public/image/review-star.png",
+                    "imageWidth": 228,
+                    "imageHeight": 40,
+                    "imageAlt": "review"
+                },
+                {
+                    "name": "Ranjith",
+                    "profileimg_Url": "../public/image/profile-pic.png",
+                    "profileimg_Width": 88,
+                    "profileimg_Height": 89,
+                    "profileimg_Alt": "review",
+                    "review": "The entire episode was seamless and the mystery was intriguing since you get to play the detective. I'm simply stunned by the amount of effort that's been put into this and I'm in awe at how well they have played understanding human psychology. I am a person who doesn't get scared that often but the mystery kept me on the edge of the seat. I would love to pay to produce such interactive content and I congratulate the team on this one-of-a-kind initiative. I appreciate the tech team and the actors as well! Thank you",
+                    "imageUrl": "../public/image/review-star.png",
+                    "imageWidth": 228,
+                    "imageHeight": 40,
+                    "imageAlt": "review"
+                },
+                {
+                    "name": "Fathimath Shifa",
+                    "profileimg_Url": "../public/image/profile-pic.png",
+                    "profileimg_Width": 88,
+                    "profileimg_Height": 89,
+                    "profileimg_Alt": "review",
+                    "review": "What an amazing gaming experience!! I am sure this is the best investigation game I played in my lifetime. The visual works and characters are amazing so proud of the workers. I am surely suggesting this to my friends and I am very happy to play this game...",
+                    "imageUrl": "../public/image/review-star.png",
+                    "imageWidth": 228,
+                    "imageHeight": 40,
+                    "imageAlt": "review"
+                },
+                {
+                    "name": "Suriya",
+                    "profileimg_Url": "../public/image/profile-pic.png",
+                    "profileimg_Width": 88,
+                    "profileimg_Height": 89,
+                    "profileimg_Alt": "review",
+                    "review": "Best story plot and nice investigation and gameplay is top-notch. I am requesting you to release another case and long time gameplay like 1hr, nice game keep it on",
+                    "imageUrl": "../public/image/review-star.png",
+                    "imageWidth": 228,
+                    "imageHeight": 40,
+                    "imageAlt": "review"
+                }
+            ]
+        
+    },
+    "footer": {
+        "title": "Get In Touch",
+        "contactinfo":{
+            "left": { 
+                "name":"Aditya Aggarwal",
+                "email":"aditya@asiaville.in",
+                "phone":"+91 95351 03505 "
+            },
+            "right": { 
+                "name":"Suraj thamby",
+                "email":"suraj-sales@asiaville.in",
+                "phone":"+91 79076 22667"
+            }
+        },
+        "downloadinfo":{
+            "title":"Available on:",
+            "links":[
+                {
+                    "image":{
+                        "url": "../public/image/Playstore.webp",
+                        "width":"216",
+                        "height":"71",
+                        "alt":"Playstore"
+                    },
+                    "url":"https://play.google.com/store/apps/details?id=com.asiaville.app",
+                    "target":"_blank"
+                },
+                {
+                    "image":{
+                        "url": "../public/image/Appstore.webp",
+                        "width":"216",
+                        "height":"71",
+                        "alt":"Appstore"
+                    },
+                    "url":"https://apps.apple.com/us/app/ayevee/id6443836091",
+                    "target":"_blank"
+                }
+               
+            ]
+        }
+    }
+}
+
+

@@ -1,0 +1,263 @@
+@charset "UTF-8";
+:root {
+  --bs-dark-purple: #301b3f;
+  --bs-light-purple: #613a7c;
+  --bs-light-black: #1a1a1a;
+  --bs-dark-black: #000000;
+  --bs-light-grey: #a3a3a3;
+  --bs-grey-shadow: #f0f0f0;
+  --bs-yellow: #ffe600;
+  --bs-white: #ffffff;
+}
+*{
+  font-family: Roboto;
+}
+i.material-icons{
+  font-family: Material Icons;
+}
+body{
+  background: #ffffff;
+}
+.change-enable{
+    display: block;
+    font-size: 12px;
+    text-decoration: none;
+    background: #ffc800;
+    color: #000;
+    max-width: 75px;
+    text-align: center;
+    padding: 2px;
+    border-radius: 5px;
+    margin: 3px 0px;
+}
+.bg-white{
+  background: var(--bs-white);
+}
+.bg-light-black{
+  background: var(--bs-light-black);
+}
+@font-face {
+  font-family: 'amithen';
+  src: url('../fonts/Amithen.ttf')  format('truetype')
+}
+
+@font-face {
+  font-family: 'amithen';
+  src: url('../fonts/Amithen Extra.ttf')  format('truetype')
+  font-weight: bold;
+}
+
+.hide{
+  display: none!important;
+}
+.img-thumbnail{
+  max-width: 100px;
+  max-height: 100px;
+}
+
+section#header-menu nav{
+  background: var(--bs-light-black);
+  color:var(--bs-white);
+}
+
+section#header-menu nav .nav-link{
+   color:var(--bs-white);
+}
+
+.txt-captalize{
+  text-transform: capitalize;
+}
+
+#h-pills-tab{
+  background: var(--bs-light-purple);
+  padding-left: 10px;
+}
+
+#h-pills-tab button{
+    min-width: 150px;
+    color: var(--bs-white);
+    background: var(--bs-light-purple);
+    line-height: 25px;
+    border-radius: 20px 20px 0px 0px;
+    text-transform: capitalize;
+    border: none;
+    margin-top: 5px;
+}
+
+.navbar-toggler{
+  float: right;
+  background-color: #fff;
+  border: 5px;
+  padding:5px;
+}
+
+#h-pills-tab button.active{
+  background: #fff;
+  color: #000;
+  font-weight: 500;
+}
+
+#h-pills-tabContent{
+  padding:50px 50px 100px 50px;
+  width:100%;
+}
+
+.m-no{
+  margin:0px!important;
+}
+
+.p-no{
+  padding:0px!important;
+}
+
+.color-display{
+  border-radius: 50%;
+  padding: 10px 20px;
+}
+
+.logo{
+  height: 50px;
+}
+
+.nav-item{
+  padding: 0px 0px 0px 15px;
+}
+
+.nav-item a.nav-link{
+  line-height:50px;
+  text-align:center;
+  text-transform: capitalize;
+  padding: 0px 20px;
+}
+.p-25{
+  padding:25px;
+}
+
+#subscription-list td a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+
+.c_notification{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999999;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    outline: 0;
+    background: #0005;
+    display: none;
+}
+
+.c_notification_block {
+    max-width: 500px;
+    margin: 20% auto;
+    background: #fff;
+    border-radius: 30px;
+    border: 4px solid #f1f1f1;
+    box-shadow: 3px 3px 9px 5px #0003;
+}
+.c_notification_body{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    display: block;
+}
+.c_notification_body p{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #222;
+    padding: 20px 10px;
+}
+.c_notification_title {
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: capitalize;
+    border-bottom: 1px solid #ececec;
+    background: #ececec;
+    border-radius: 25px 25px 0px 0px;
+    padding: 10px;
+}
+.c_notification_title p{
+    font-size: 18px;
+    font-weight: 900;
+    text-transform: capitalize;
+    color: #222;
+    display: inline-block;
+    padding-left: 10px;
+
+}
+.c_notification_title button{
+    float: right;
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+    font-size: 16px;
+    -webkit-appearance: none;
+}
+.red{
+    background: #d34a4a!important;
+}
+
+.red p,.red span{
+    color: #fff!important;
+}
+input.sortorder{
+  max-width: 50px;
+}
+input.sortorder:disabled{
+    border: none;
+    background: transparent;
+    max-width: 50px;
+    text-align: left;
+}
+
+.dataTables_length{
+  margin-bottom: 10px;
+}
+
+table.table,table.dataTable.no-footer{
+  border: 1px solid rgb(97 58 124);
+}
+
+table.table thead{
+    background: #613a7c;
+    color: #fff;
+}
+
+table.table thead tr th{
+    text-transform: capitalize;
+}
+table.table tbody tr td{
+  vertical-align: baseline;
+}
+
+.p-50{
+  padding: 50px;
+}
+.green{
+    background: #4ad389!important;
+}
+.nav-item:hover .dropdown-menu{
+  display: block;
+}
+
+.nav-item a{
+  text-transform: capitalize;
+}
+
+p.imageinfo {
+    text-transform: capitalize;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+form#pageinfo{
+    margin-bottom: 50px;
+}

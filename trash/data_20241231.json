@@ -1,0 +1,265 @@
+{
+  "banner": {
+    "video": {
+      "poster": "",
+      "source": {
+        "src": "/public/videos/Asiaville-Slider.mp4",
+        "type": "video/mp4"
+      }
+    }
+  },
+  "aboutus": {
+    "title": "About Us",
+    "paragraph": "We are a Media-Tech company reaching over 150 million monthly users across local languages through our Interactive and Gamified app, AyeVee, our social media touch points and across OTT platforms. We believe in a future defined by disruptive entertainment experiences powered by the strength of our IP.",
+    "video": {
+      "poster": "",
+      "source": {
+        "src": "/public/videos/ASIAVILLE-FULL-PROMO-720.mp4",
+        "type": "video/mp4"
+      }
+    }
+  },
+  "Ourreach": {
+    "title": "OUR REACH",
+    "reach_info": [
+      {
+        "title": "Monthly Users",
+        "value": "150MN+"
+      },
+      {
+        "title": "Monthly Video Views",
+        "value": "100MN+"
+      },
+      {
+        "title": "Monthly Engagements",
+        "value": "10MN+"
+      }
+    ]
+  },
+  "bannerblock": [
+    [
+      "../public/uploads/imgs/bae-calling.jpg"
+    ],
+    [
+      "../public/uploads/imgs/soulmate.jpg",
+      "../public/uploads/imgs/who-killed.jpg",
+      "../public/uploads/imgs/let-me-out.jpg",
+      "../public/uploads/imgs/the-key.jpg",
+      "../public/uploads/imgs/ex-soulmate.jpg"
+    ]
+    
+  ],
+  "Ott": {
+    "title": "OTT & Brand Partnerships",
+    "paragraph": "Asiaville has partnered with the top brands and OTT platforms globally.",
+    "ott_list": [
+      {
+        "name": "spotify",
+        "image": "/public/uploads/home/ott/CHmZxscRJry-spotify.png"
+      },
+      {
+        "name": "aha",
+        "image": "/public/uploads/home/ott/IXzYhan5c2v-aha.png"
+      },
+      {
+        "name": "audible",
+        "image": "/public/uploads/home/ott/NPRUeyBgt9J-audible.png"
+      },
+      {
+        "name": "sonyliv",
+        "image": "/public/uploads/home/ott/BoNFJaTezn9-sonyliv.png"
+      },
+      {
+        "name": "Disney hotstar",
+        "image": "/public/uploads/home/ott/4yhTe5Ymigf-hotstar.png"
+      }
+    ]
+  },
+  "brand": [
+    {
+      "name": "tata-kanandevan",
+      "image": "/public/uploads/home/sponsor/AhqGngTKLPY-tata-kanandevan.png"
+    },
+    {
+      "name": "willywhyte",
+      "image": "/public/uploads/home/sponsor/c1BfiPMqLQo-willywhyte.png"
+    },
+    {
+      "name": "pooja-ragenee",
+      "image": "/public/uploads/home/sponsor/JNMYOr984e1-pooja-ragenee.png"
+    },
+    {
+      "name": "avt",
+      "image": "/public/uploads/home/sponsor/nTZq0w7LfAN-avt.png"
+    },
+    {
+      "name": "lulu",
+      "image": "/public/uploads/home/sponsor/74Cenxyr6SI-lulu.png"
+    },
+    {
+      "name": "kalyan",
+      "image": "/public/uploads/home/sponsor/eoAFL8tfTId-kalyan.png"
+    },
+    {
+      "name": "pothy",
+      "image": "/public/uploads/home/sponsor/E1nPDQh5Bl9-pothy.png"
+    },
+    {
+      "name": "double-horse",
+      "image": "/public/uploads/home/sponsor/2dGtQ8c3LOS-double-horse.png"
+    },
+    {
+      "name": "tata-chakra-gold",
+      "image": "/public/uploads/home/sponsor/IrNcFDzhUYb-tata-chakra-gold.png"
+    },
+    {
+      "name": "ziva",
+      "image": "/public/uploads/home/sponsor/bAnf2VWaOte-ziva.png"
+    },
+    {
+      "name": "apollo-hospital",
+      "image": "/public/uploads/home/sponsor/o578LbkwgsG-apollo-hospital.png"
+    },
+    {
+      "name": "Byjus",
+      "image": "/public/uploads/home/sponsor/BWV4yJ3raTv-Byjus.png"
+    },
+    {
+      "name": "Lenskart",
+      "image": "/public/uploads/home/sponsor/Lenskart.png"
+    },
+    {
+      "name": "MyG",
+      "image": "/public/uploads/home/sponsor/myGLogo.png"
+    },
+    {
+      "name": "LAZZAPG",
+      "image": "/public/uploads/home/sponsor/LAZZAPGLOGO.png"
+    },
+   {
+      "name": "G-TECR",
+      "image": "/public/uploads/home/sponsor/G-TECRLOGO.png"
+    },
+    {
+      "name": "LG",
+      "image": "/public/uploads/home/sponsor/lglogo.png"
+    },
+    {
+      "name": "KSFE",
+      "image": "/public/uploads/home/sponsor/KSFELogo.png"
+    },
+    {
+      "name": "TataTea",
+      "image": "/public/uploads/home/sponsor/TataTea.png"
+    },
+    {
+      "name": "spotify",
+      "image": "/public/uploads/home/sponsor/Spotify.png"
+    },{
+      "name": "Federal",
+      "image": "/public/uploads/home/sponsor/FederalBank.png"
+    }
+  ],
+  "creators": {
+    "title": "Creators",
+    "paragraph": "Meet our Dynamic team of Creators.",
+    "creators_slider": [
+      {
+        "name": "Varsha",
+        "image": "/public/uploads/home/creators/khZu65MnBL4-1721203421.jpg"
+      },
+      {
+        "name": "Gayathri",
+        "image": "/public/uploads/home/creators/dlRbrZ1i6Lm-1721203564.jpg"
+      },
+      {
+        "name": "Stephen Mathew",
+        "image": "/public/uploads/home/creators/JWTOf83BXwn-1721203616.jpg"
+      },
+      {
+        "name": "Ragul Chandran",
+        "image": "/public/uploads/home/creators/RpSCne0ThFm-1721203726.jpg"
+      },
+      {
+        "name": "Parvathy Sreemangalam",
+        "image": "/public/uploads/home/creators/v3AMWgb5hQc-1721203762.jpg"
+      },
+      {
+        "name": "Sandra Chaandy",
+        "image": "/public/uploads/home/creators/2GiIWsAnJvL-1721203794.jpg"
+      },
+      {
+        "name": "Ashik",
+        "image": "/public/uploads/home/creators/ashik.jpg"
+      },
+      {
+        "name": "Sekar",
+        "image": "/public/uploads/home/creators/Sekar.jpg"
+      },
+      {
+        "name": "Shan",
+        "image": "/public/uploads/home/creators/shan.jpg"
+      },
+      {
+        "name": "Varsha",
+        "image": "/public/uploads/home/creators/khZu65MnBL4-1721203421.jpg"
+      },
+      {
+        "name": "Gayathri",
+        "image": "/public/uploads/home/creators/dlRbrZ1i6Lm-1721203564.jpg"
+      },
+      {
+        "name": "Stephen Mathew",
+        "image": "/public/uploads/home/creators/JWTOf83BXwn-1721203616.jpg"
+      },
+      {
+        "name": "Ragul Chandran",
+        "image": "/public/uploads/home/creators/RpSCne0ThFm-1721203726.jpg"
+      },
+      {
+        "name": "Parvathy Sreemangalam",
+        "image": "/public/uploads/home/creators/v3AMWgb5hQc-1721203762.jpg"
+      },
+      {
+        "name": "Sandra Chaandy",
+        "image": "/public/uploads/home/creators/2GiIWsAnJvL-1721203794.jpg"
+      },
+      {
+        "name": "Milan Sandra",
+        "image": "/public/uploads/home/creators/BLxK7n6OXkf-1721203824.jpg"
+      },
+      {
+        "name": "Ashik",
+        "image": "/public/uploads/home/creators/ashik.jpg"
+      },
+      {
+        "name": "Sekar",
+        "image": "/public/uploads/home/creators/Sekar.jpg"
+      },
+      {
+        "name": "Shan",
+        "image": "/public/uploads/home/creators/shan.jpg"
+      }
+    ]
+  },
+  "footer": {
+    "asiaville_tamil": {
+      "facebook": "https://www.facebook.com/AsiavilleTamil/",
+      "youtube": "https://www.youtube.com/c/AsiavilleTamil",
+      "twitter": "https://mobile.twitter.com/asiavilletamil",
+      "instagram": "https://www.instagram.com/asiavilletamil/?hl=en"
+    },
+    "asiaville_malayalam": {
+      "facebook": "https://www.facebook.com/AsiavilleMalayalam/",
+      "youtube": "https://www.youtube.com/@asiavillemalayalam0",
+      "twitter": "https://twitter.com/asiavillem?lang=en",
+      "instagram": "https://www.instagram.com/asiavillemalayalam/?hl=en"
+    },
+    "asiaville_hindi": {
+      "facebook": "https://www.facebook.com/AsiavilleHindi/",
+      "youtube": "https://www.youtube.com/@asiavillehindi",
+      "twitter": "https://twitter.com/hindiasiaville?lang=en",
+      "instagram": "https://www.instagram.com/asiavillehindi/?hl=en"
+    }
+  }
+}

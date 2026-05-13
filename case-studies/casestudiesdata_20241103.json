@@ -1,0 +1,166 @@
+{   "pagetitle":"Case Studies",
+    "kalyanjewellers":{
+        "title": "Kalyan Jewellers",
+        "description": "Year long tie up with Kalyan Jewellers on Tok Tok, Kerala’s top celebrity interview show.",
+        "video":{
+            "poster":"https://asiaville.in/public/uploads/imgs/kalyan.jpg",
+            "source":{
+                "src":"https://asiaville.in/public/videos/kalyan.mp4",
+                "type":"video/mp4"
+            }
+        },
+        "stats" :  [
+            { "count": "50 Mn+", "type": "Views", "color": "card" },
+            { "count": "5 Mn+", "type": "Engagements", "color": ["card","black"] },
+            { "count": "5 min +", "type": "Avg Watch Time", "color": ["card","black"] }
+        ]
+    },
+    "tatachakragold":{
+        "title":"Tata Tea Chakra Gold",
+        "description":"Marquee campaign for Tata Tea Chakra Gold involving WhatsApp stickers, narrative storytelling through a series of rich media social posts and an anchor animation based video invoking 'Telugu Ghanam' during the Navratri season.",
+        "images" : [
+            { "src": "https://asiaville.in/public/uploads/imgs/vkbKeBJLM3V-joJ9q6OTgUA-sticker-1.png", "class": "col-6 m-b-20" },
+            { "src": "https://asiaville.in/public/uploads/imgs/1L05RFS3mkN-v9VRmOK0rCZ-sticker-2.png", "class": "col-6" },
+            { "src": "https://asiaville.in/public/uploads/imgs/6rjMHGBvJIL-CVT3lWOKy8I-chakra1.jpg", "class": "col-6 m-b-20" },
+            { "src": "https://asiaville.in/public/uploads/imgs/MWsxo80BRCt-iqAxhWu8GcR-chakra-2.jpg", "class": "col-6" }
+        ],
+        "video":{
+            "poster":"https://asiaville.in/public/uploads/imgs/DOvq2F45irw-Chakra-gold-thumb-min.jpg",
+            "source":{
+                "src":"https://asiaville.in/public/uploads/imgs/O1XEvHSpgIP-Tata-Tea-Chakra-Gold.mp4",
+                "type":"video/mp4"
+            }
+        }
+    },
+    "tatatea":{
+        "title":"TATA TEA KANAN DEVAN",
+        "description":"360 degree social campaign consisting of immersive AR filters on Instagram, interactive WhatsApp based chatbot and a series of immersive social posts during the Onam season.",
+        "images":[
+             "https://asiaville.in/public/uploads/imgs/hEYbX0cuToJ-2jWUbvFpXoi-1.jpg",
+             "https://asiaville.in/public/uploads/imgs/SCGtTINxfl8-3TipdO7fuoM-2.jpg",
+             "https://asiaville.in/public/uploads/imgs/NzlrxUF0f4H-7DZziJAs0HE-3.jpg"
+        ]
+    },
+    "spc":{
+        "title":"SPC UNIVERSAL",
+        "description":"UGC contest on AyeVee for SPC Universal in Kerala, accounting for over 10k UGC submissions and more than 4,000 hours of content viewed during campaign period.",
+        "image1":"https://asiaville.in/public/uploads/imgs/awJy4cPI3EN-293357671-1246822872815655-1134941374837745208-n.jpg",
+        "image2":"https://asiaville.in/public/uploads/imgs/Vgn7xo0muRZ-292860800-1244138646417411-6344142900502175473-n.jpg",
+        "video":{
+            "poster":"https://asiaville.in/public/uploads/imgs/C2rd8MefoO0-SPC-Thumb-min.jpg",
+            "source":{
+                "src":"https://asiaville.in/public/uploads/imgs/iEwYmRP5vsL-spc.mp4",
+                "type":"video/mp4"
+            }
+        }
+    },
+    "ziva":{
+        "title":"ZIVA MATERNITY WEAR",
+        "description":"UGC contest on AyeVee for Ziva Maternity Wear in Tamin Nadu, focused on pregnancy and maternity related content.",
+        "image":"https://asiaville.in/public/uploads/imgs/p5NMdXRToys-gfutej0GMHp-ziva.jpg"
+    },
+    "spotify":{
+        "title":"SPOTIFY",
+        "description":"Asiaville worked as strategic partners with Spotify for their ambitious 'Create with Anchor' program, to onboard 500 regional language podcasters in Tamil and Malayalam respectively onto the Anchor platform.",
+        "images":[
+             "https://asiaville.in/public/uploads/imgs/RTxMQS6KoGF-WC3ES2Y7Hxp-spotify-1.jpg",
+             "https://asiaville.in/public/uploads/imgs/veJOT1tKiDz-B9k1a4iQIdS-spotify-3.jpg",
+             "https://asiaville.in/public/uploads/imgs/ngZ4Ax3J18u-9t2zRKnFLj3-Live-spotify.jpg",
+             "https://asiaville.in/public/uploads/imgs/ZcAf4hE7ra3-EgXAsL3nxWG-live-spotify-2.jpg"
+        ]
+    },
+    "brand":[
+        {
+            "name":"tata-kanandevan",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/AhqGngTKLPY-tata-kanandevan.png"
+        },
+        {
+            "name":"ephphatha",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/RikmXM2fK3T-ephphatha.png"
+        },
+        {
+            "name":"willywhyte",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/c1BfiPMqLQo-willywhyte.png"
+        },
+        {
+            "name":"sun-city",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/zVHkB45seUN-sun-city.png"
+        },
+        {
+            "name":"pooja-ragenee",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/JNMYOr984e1-pooja-ragenee.png"
+        },
+        {
+            "name":"napier-heritage",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/WaGpt1dM2j3-napier-heritage.png"
+        },
+        {
+            "name":"avt",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/nTZq0w7LfAN-avt.png"
+        },
+        {
+            "name":"lenkara",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/CRUaBsuPvAm-lenkara.png"
+        },
+        {
+            "name":"lulu",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/74Cenxyr6SI-lulu.png"
+        },
+        {
+            "name":"kalyan",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/eoAFL8tfTId-kalyan.png"
+        },
+        {
+            "name":"escaso",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/YF7h3Bmsbni-escaso.png"
+        },
+        {
+            "name":"pothy",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/E1nPDQh5Bl9-pothy.png"
+        },
+        {
+            "name":"double-horse",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/2dGtQ8c3LOS-double-horse.png"
+        },
+        {
+            "name":"tata-chakra-gold",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/IrNcFDzhUYb-tata-chakra-gold.png"
+        },
+        {
+            "name":"ziva",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/bAnf2VWaOte-ziva.png"
+        },
+        {
+            "name":"spc",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/UQwo4BRDcz8-spc.png"
+        },
+        {
+            "name":"apollo-hospital",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/o578LbkwgsG-apollo-hospital.png"
+        },
+        {
+            "name":"Byjus",
+            "image":"https://asiaville.in/public/uploads/home/sponsor/BWV4yJ3raTv-Byjus.png"
+        }
+    ],
+    "footer": {
+        "asiaville_tamil": {
+            "facebook": "https://www.facebook.com/AsiavilleTamil/",
+            "youtube": "https://www.youtube.com/c/AsiavilleTamil",
+            "twitter": "https://mobile.twitter.com/asiavilletamil",
+            "instagram": "https://www.instagram.com/asiavilletamil/?hl=en"
+        },
+        "asiaville_malayalam": {
+            "facebook": "https://www.facebook.com/AsiavilleMalayalam/",
+            "youtube": "https://www.youtube.com/@asiavillemalayalam0",
+            "twitter": "https://twitter.com/asiavillem?lang=en",
+            "instagram": "https://www.instagram.com/asiavillemalayalam/?hl=en"
+        },
+        "asiaville_hindi": {
+            "facebook": "https://www.facebook.com/AsiavilleHindi/",
+            "youtube": "https://www.youtube.com/@asiavillehindi",
+            "twitter": "https://twitter.com/hindiasiaville?lang=en",
+            "instagram": "https://www.instagram.com/asiavillehindi/?hl=en"
+        }
+    }
+}

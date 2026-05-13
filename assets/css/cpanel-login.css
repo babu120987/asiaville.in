@@ -1,0 +1,25 @@
+
+.login-section{
+    background: #301b3f;
+    display: block;
+    height: 100vh;
+}
+.login-card>.card-header {background:#1a1a1a ;}
+
+.login-text{
+    font-family: "amithen";
+    color:#ffe600;
+}
+.login-card {
+    max-width: 400px;
+    width: 100%;
+    margin: 20px auto;
+    position: absolute;
+    top: calc(50% - 200px);
+    left: calc(50% - 200px);
+}
+.hyperlink_text{
+    text-decoration: none;
+    font-size: 14px;
+    color: #1a1a1a;
+}

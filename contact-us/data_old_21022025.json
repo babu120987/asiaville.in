@@ -1,0 +1,54 @@
+{   
+    "contactus":{
+        "title":"Contact Us",
+        "desktopbanner":"../assets/img/QCXG9qF2Dh0-1721130861.jpg",
+        "mobilebanner":"../assets/img/QCXG9qF2Dh0-1721130861.jpg",
+        "branches":[
+            {
+                "background":"#7de3ef",
+                "title":"Chennai Office",
+                "address":"85/17, Sri Rangam Avenue,<br>Pantheon Rd, Egmore, Chennai,<br>Tamil Nadu 600008"
+            },
+            {
+                "background":"#d4a5db",
+                "title":"Kochi Office",
+                "address":"No. 127, NJRA, N Janatha Road<br>Palarivattom<br>Kochi, Kerala - 682025"
+            },
+            {
+                "background":"#d3d3d3",
+                "title":"Bengaluru Office",
+                "address":"Hustlehub Tech Park (H210 36/5 Somasundarapalya Main Road adjacent <br>27thMainRoad HaralukunteVillage Sector 2, HSR Layout<br>Bengaluru, Karnataka - 560102"
+            }
+        ],
+        "communication":[
+            {
+                "txt":"For brand and strategic partnerships",
+                "email":"sales@asiaville.in"
+            },
+            {
+                "txt":"For any other queries, give us a shout at",
+                "email":"info@asiaville.in"
+            }
+        ]
+    },
+    "footer": {
+        "asiaville_tamil": {
+            "facebook": "https://www.facebook.com/AsiavilleTamil/",
+            "youtube": "https://www.youtube.com/c/AsiavilleTamil",
+            "twitter": "https://mobile.twitter.com/asiavilletamil",
+            "instagram": "https://www.instagram.com/asiavilletamil/?hl=en"
+        },
+        "asiaville_malayalam": {
+            "facebook": "https://www.facebook.com/AsiavilleMalayalam/",
+            "youtube": "https://www.youtube.com/@asiavillemalayalam0",
+            "twitter": "https://twitter.com/asiavillem?lang=en",
+            "instagram": "https://www.instagram.com/asiavillemalayalam/?hl=en"
+        },
+        "asiaville_hindi": {
+            "facebook": "https://www.facebook.com/AsiavilleHindi/",
+            "youtube": "https://www.youtube.com/@asiavillehindi",
+            "twitter": "https://twitter.com/hindiasiaville?lang=en",
+            "instagram": "https://www.instagram.com/asiavillehindi/?hl=en"
+        }
+    }
+}

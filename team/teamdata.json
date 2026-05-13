@@ -1,0 +1,183 @@
+{
+    "team": {
+        "title": "Meet Our Team",
+        "description": "We have a team of 60 + game changers in Chennai, Kochi and Delhi, all united in their passion to build a dynamic new age Media-Tech Company",
+        "teamlist": [
+            {
+                "title": "Founding Team",
+                "members": [
+                    {
+                        "image": "../public/uploads/team/Gt4hfBTKemR-shashikumar.jpg",
+                        "name": "Shashi Kumar",
+                        "designation": "Chairman"
+                    },
+                    {
+                        "image": "../public/uploads/team/Dyo5CO7RtuI-Tuhin.jpg",
+                        "name": "Tuhin Menon",
+                        "designation": "CEO"
+                    }
+                ]
+            },
+            {
+                "title": "Product & Technology Team",
+                "members": [
+                    {
+                        "image": "../public/uploads/team/GBNh8YIC5r4-1698923789.jpg",
+                        "name": "Devendra Kumar Malav",
+                        "designation": "Manager - Product & User growth"
+                    },
+                    {
+                        "image": "../public/uploads/team/D6TwqafIWMl-1674174888.jpg",
+                        "name": "Selva Sundar Raj",
+                        "designation": "Technology Head"
+                    },
+                    {
+                        "image": "../public/uploads/team/Veera.jpg",
+                        "name": "Veerasathiya",
+                        "designation": "React Native Developer"
+                    },
+                    {
+                        "image": "../public/uploads/team/Soniya.jpg",
+                        "name": "Anns Soniya Mary",
+                        "designation": "Backend Developer"
+                    },
+                    {
+                        "image": "../public/uploads/team/micheal.jpg",
+                        "name": "Micheal Arun Kumar",
+                        "designation": "Senior Quality Analyst"
+                    },
+                    {
+                        "image": "../public/uploads/team/jfhZaTcVHzI-1674116019.jpg",
+                        "name": "Dinesh",
+                        "designation": "Technology Advisor"
+                    }
+                ]
+            },
+            {
+                "title": "Business Development and Brand Solutions Team",
+                "members": [
+                    {
+                        "image": "../public/uploads/team/V5jnWQsi4f0-suraj.jpg",
+                        "name": "Suraj Thamby",
+                        "designation": "Regional Head"
+                    },
+                    {
+                        "image": "../public/uploads/team/Sidhartha.jpg",
+                        "name": "Siddhartha Dayani",
+                        "designation": "Sr. Brand Strategist"
+                    },
+                    {
+                        "image": "../public/uploads/team/ram.jpg",
+                        "name": "Ramthilak",
+                        "designation": "Performance Marketing Manager"
+                    }
+                ]
+            },
+            {
+                "title": "Content & Creative Team",
+                "members": [
+                    {
+                        "image": "../public/uploads/team/Sujatha.jpg",
+                        "name": "Sujatha",
+                        "designation": "Head-Content & Production"
+                    },
+                    {
+                        "image": "../public/uploads/team/Sibu.jpg",
+                        "name": "Sibu",
+                        "designation": "Creative Head"
+                    },
+                    {
+                        "image": "../public/uploads/team/sujithNew.jpg",
+                        "name": "Sujith",
+                        "designation": "Content Head"
+                    },
+                    {
+                        "image": "../public/uploads/team/8SJHx5zhCEi-1694690176.jpg",
+                        "name": "Prajeesh",
+                        "designation": "Senior Designer & CG Artist"
+                    },
+                    {
+                        "image": "../public/uploads/team/rineesh.jpg",
+                        "name": "Rinesh",
+                        "designation": "Graphics Designer"
+                    },
+                    {
+                        "image": "../public/uploads/team/samyuktha.jpg",
+                        "name": "Samyuktha",
+                        "designation": "Social Media Manager-Tamil"
+                    },
+                    {
+                        "image": "../public/uploads/team/Shabeena.jpg",
+                        "name": "Shabina",
+                        "designation": "Social Media Manager-Malayalam"
+                    }
+                ]
+            },
+            {
+                "title": "Human Resource",
+                "members": [
+                    {
+                        "image": "../public/uploads/team/shenbaga.jpg",
+                        "name": "Shenbaga Devi",
+                        "designation": "Manager - Human Resource & Administration"
+                    }
+                ]
+            },
+            {
+                "title": "Finance",
+                "members": [
+                    {
+                        "image": "../public/uploads/team/YV8BG7Rgw5O-1721132170.jpg",
+                        "name": "Prabhu",
+                        "designation": "Finance Head"
+                    },
+                    {
+                        "image": "../public/uploads/team/Abhinaya.jpg",
+                        "name": "Abhinaya",
+                        "designation": "Senior Accounts Executive "
+                    },
+                    {
+                        "image": "../public/uploads/team/Surya.jpg",
+                        "name": "Surya",
+                        "designation": "Accounts Executive "
+                    }
+                ]
+            },
+            {
+                "title": "Admin Team",
+                "members": [
+                    {
+                        "image": "../public/uploads/team/VYj8xo4irmS-ajith.jpg",
+                        "name": "Ajith Kumar",
+                        "designation": "Senior Executive - IT & Admin"
+                    },
+                    {
+                        "image": "../public/uploads/team/babu.jpg",
+                        "name": "Babu",
+                        "designation": "IT Network Engineer "
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "asiaville_tamil": {
+            "facebook": "https://www.facebook.com/AsiavilleTamil/",
+            "youtube": "https://www.youtube.com/c/AsiavilleTamil",
+            "twitter": "https://mobile.twitter.com/asiavilletamil",
+            "instagram": "https://www.instagram.com/asiavilletamil/?hl=en"
+        },
+        "asiaville_malayalam": {
+            "facebook": "https://www.facebook.com/AsiavilleMalayalam/",
+            "youtube": "https://www.youtube.com/@asiavillemalayalam0",
+            "twitter": "https://twitter.com/asiavillem?lang=en",
+            "instagram": "https://www.instagram.com/asiavillemalayalam/?hl=en"
+        },
+        "asiaville_hindi": {
+            "facebook": "https://www.facebook.com/AsiavilleHindi/",
+            "youtube": "https://www.youtube.com/@asiavillehindi",
+            "twitter": "https://twitter.com/hindiasiaville?lang=en",
+            "instagram": "https://www.instagram.com/asiavillehindi/?hl=en"
+        }
+    }
+}
