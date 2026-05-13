@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        WSL_HOST = 192.168.1.251
+        WSL_HOST =' 192.168.1.251'
         WSL_USER = 'asiaville'
         PROJECT_DIR = '/home/asiaville/asiaville-bucket'
         IMAGE_NAME = 'asiaville.in'
