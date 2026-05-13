@@ -131,11 +131,11 @@
                         "name": "Prabhu",
                         "designation": "Finance Head"
                     },
-                    {
-                        "image": "../public/uploads/team/Jyothi.jpg",
-                        "name": "Jyothi",
-                        "designation": "Accounts Manager "
-                    },
+{
+    "image": "../public/uploads/team/Jyothi.jpg",
+    "name": "Jyothi",
+    "designation": "Accounts Manager"
+}
                     {
                         "image": "../public/uploads/team/Surya.jpg",
                         "name": "Surya",
