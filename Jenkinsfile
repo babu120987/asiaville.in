@@ -4,13 +4,12 @@ pipeline {
     environment {
         WSL_HOST = '192.168.1.251'
         PROJECT_DIR = '/home/asiaville/asiaville-bucket'
-        IMAGE_NAME = 'asiaville.in'
-        CONTAINER_NAME = 'asiaville'
-        HOST_PORT = '10000'
+        IMAGE_NAME = 'asiaville.in:local'
+        KIND_CLUSTER = 'asiaville'
     }
 
     stages {
-        stage('Deploy In WSL') {
+        stage('Deploy To Kubernetes In WSL') {
             steps {
                 withCredentials([usernamePassword(credentialsId: 'wsl-password', usernameVariable: 'WSL_USER', passwordVariable: 'WSL_PASS')]) {
                     script {
@@ -24,13 +23,22 @@ pipeline {
 
                         sshCommand remote: remote, command: """
                             set -e
+
                             cd ${env.PROJECT_DIR}
+
                             git fetch origin main
                             git reset --hard origin/main
-                            docker build -t ${env.IMAGE_NAME}:latest .
-                            docker rm -f ${env.CONTAINER_NAME} 2>/dev/null || true
-                            docker run -d --name ${env.CONTAINER_NAME} --restart unless-stopped -p ${env.HOST_PORT}:80 ${env.IMAGE_NAME}:latest
-                            docker ps --filter name=${env.CONTAINER_NAME}
+
+                            docker build -t ${env.IMAGE_NAME} .
+
+                            kind load docker-image ${env.IMAGE_NAME} --name ${env.KIND_CLUSTER}
+
+                            kubectl apply -f k8s/asiaville.yaml
+                            kubectl rollout restart deployment/asiaville
+                            kubectl rollout status deployment/asiaville --timeout=120s
+
+                            kubectl get pods
+                            kubectl get svc
                         """
                     }
                 }
