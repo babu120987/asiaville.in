@@ -126,21 +126,21 @@
             {
                 "title": "Finance",
                 "members": [
-                    {
-                        "image": "../public/uploads/team/YV8BG7Rgw5O-1721132170.jpg",
-                        "name": "Prabhu",
-                        "designation": "Finance Head"
-                    },
+{
+    "image": "../public/uploads/team/YV8BG7Rgw5O-1721132170.jpg",
+    "name": "Prabhu",
+    "designation": "Finance Head"
+},
 {
     "image": "../public/uploads/team/Jyothi.jpg",
     "name": "Jyothi",
     "designation": "Accounts Manager"
+},
+{
+    "image": "../public/uploads/team/Surya.jpg",
+    "name": "Surya",
+    "designation": "Accounts Executive"
 }
-                    {
-                        "image": "../public/uploads/team/Surya.jpg",
-                        "name": "Surya",
-                        "designation": "Accounts Executive "
-                    }
                 ]
             },
             {
