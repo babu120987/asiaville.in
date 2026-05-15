@@ -97,17 +97,17 @@
                         "designation": "Senior Designer & CG Artist"
                     },
                     {
-                        "image": "../public/uploads/team/rineesh.jpg",
+                        "image": "../public/uploads/team/babu.jpg",
                         "name": "Rinesh",
                         "designation": "Graphics Designer"
                     },
                     {
-                        "image": "../public/uploads/team/samyuktha.jpg",
+                        "image": "../public/uploads/team/babu.jpg",
                         "name": "Samyuktha",
                         "designation": "Social Media Manager-Tamil"
                     },
                     {
-                        "image": "../public/uploads/team/Shabeena.jpg",
+                        "image": "../public/uploads/team/babu.jpg",
                         "name": "Shabina",
                         "designation": "Social Media Manager-Malayalam"
                     }
@@ -127,12 +127,12 @@
                 "title": "Finance",
                 "members": [
 {
-    "image": "../public/uploads/team/YV8BG7Rgw5O-1721132170.jpg",
+    "image": "../public/uploads/team/YV8BG7Rgw5O-babu.jpg",
     "name": "Prabhu",
     "designation": "Finance Head"
 },
 {
-    "image": "../public/uploads/team/Jyothi.jpg",
+    "image": "../public/uploads/team/babu.jpg",
     "name": "Jyothi",
     "designation": "Accounts Manager"
 },
@@ -147,7 +147,30 @@
                 "title": "Admin Team",
                 "members": [
                     {
-                        "image": "../public/uploads/team/VYj8xo4irmS-ajith.jpg",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        "image": "../public/uploads/team/VYj8xo4irmS-babu.jpg",
                         "name": "Ajith Kumar",
                         "designation": "Senior Executive - IT & Admin"
                     },
